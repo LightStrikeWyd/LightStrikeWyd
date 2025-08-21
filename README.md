@@ -18,9 +18,3 @@ Languages:
 ├── Kotlin/Java
 └── Python
 ```
-
-## 📊 GitHub Stats
-
-![LightStrikeWyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=LightStrikeWyd&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LightStrikeWyd&layout=compact&theme=default&hide_border=true)
