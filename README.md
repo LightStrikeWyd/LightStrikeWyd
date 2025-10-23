@@ -1,13 +1,7 @@
 # Hi there, I'm LightStrikeWyd 👋
 
 ## 👨‍💻 About Me
-
-Hey, I'm a Software Engineer that has recently delved into Roblox Development as a hobby. While typically I handle backend systems in my day to day life, I am exploring and experimenting with game development, and hope to be able to contribute to the community.
-
-- 🔭 Currently working as a Software Engineer
-- 🎮 Currently learning Roblox game development game development
-- 💼 Work with Java/Kotlin on backend systems.
-
+Hey, I'm a Software Engineer that has recently delved into Roblox Development as a hobby.
 ## 🛠️ Technologies & Languages
 
 ```text
